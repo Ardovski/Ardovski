@@ -1,4 +1,6 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsZGwzMGZ1M3RpcTVpaGRtY29pb3JjaGZ5ZWEyMGN2YnFnMXI0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9EdzfOSgfyueLm/giphy.webp)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsZGwzMGZ1M3RpcTVpaGRtY29pb3JjaGZ5ZWEyMGN2YnFnMXI0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9EdzfOSgfyueLm/giphy.webp" alt="MasterHead" />
+</p>
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">Hi! I'm Arda, a Computer Engineer. I started my software development journey with web and desktop applications, and over time, I gained experience in various fields such as artificial intelligence, embedded systems, and industrial robot programming. In the projects I work on, I actively use technologies like .NET, C/C++/C#, Python, HTML/CSS/JS, and SQL. I also focus on industrial automation systems, particularly PLC communication and robot control software. Currently, I’m further enhancing my skills through an intensive software education program at 42 Türkiye. I enjoy contributing to open-source projects and experimenting with new technologies.</h3>
 
