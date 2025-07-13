@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style= "width: 100%;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsZGwzMGZ1M3RpcTVpaGRtY29pb3JjaGZ5ZWEyMGN2YnFnMXI0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9EdzfOSgfyueLm/giphy.webp" alt="MasterHead" />
 </p>
 <h1 align="center">Hi 👋, I'm Arda</h1>
