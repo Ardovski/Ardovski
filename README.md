@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Advanced C and low-level memory management & Data structures and algorithms & AI fundamentals and neural networks & Collaborative development through 42 Türkiye curriculum**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ardovski](https://github.com/Ardovski)
-
 - 💬 Ask me about **Web development (ASP.NET, MVC, Razor, HTML, CSS) & Windows applications using .NET & C# & PLC communication and industrial automation & Robot programming (especially KUKA / KRL) & Embedded systems and microcontroller projects & Python-based AI applications**
 
 - 📫 How to reach me **uardaozdes@gmail.com**
